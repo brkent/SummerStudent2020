@@ -13,4 +13,5 @@ Summer Student examples and resources 2020
 * [Pycon 2020](https://us.pycon.org/2020/about/)
 * [Pandas](http://pandas.pydata.org/)
 * [Siggraph Conference](https://www.siggraph.org/)
+* [SciPy Conference](https://www.scipy2020.scipy.org/)
 * [Visualize Astronomy Channel](https://www.youtube.com/user/VisualizeAstronomy/videos)
